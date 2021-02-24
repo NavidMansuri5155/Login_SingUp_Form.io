@@ -1,0 +1,26 @@
+body {
+  background: url(https://images6.alphacoders.com/658/thumb-1920-658326.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center center;
+  margin: 0%;
+  padding: 0%;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 17%;
+    font-family: 'Lobster', cursive;
+    color: rgb(60, 189, 225);
+    letter-spacing: 16px;
+    font-size: 10vh;
+}
+h2{
+    text-align: center;
+    color: bisque;
+}
+.btn1{
+    text-align: center;
+    margin-left: 50%;
+    letter-spacing: 16px;
+}
